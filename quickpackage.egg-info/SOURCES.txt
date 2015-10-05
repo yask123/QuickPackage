@@ -1,0 +1,8 @@
+setup.py
+bin/quickpackage
+quickpackage/__init__.py
+quickpackage.egg-info/PKG-INFO
+quickpackage.egg-info/SOURCES.txt
+quickpackage.egg-info/dependency_links.txt
+quickpackage.egg-info/not-zip-safe
+quickpackage.egg-info/top_level.txt
