@@ -2,6 +2,7 @@
 Instantly create and upload python package for your python script
 
 Use QuickPackage to instantly package your single python script and upload it to [Pypi](https://pypi.python.org) . This would enable users to quickly install and use your script.
+Also :
 [Save time](http://stackoverflow.com/questions/15587877/run-a-python-script-in-terminal-without-the-python-command)
 
 ## Installation 
