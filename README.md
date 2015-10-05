@@ -1,4 +1,4 @@
-# quick-package
+# QuickPackage
 Instantly create and upload python package for your python script
 
 ## Installation 
