@@ -1,5 +1,5 @@
 # QuickPackage
-Instantly create and upload python package for your python script without reading any `Docs`
+Instantly create and upload python package for your awesome script without reading any `Docs`
 
 Just enter the path of your awsome python script and instantly package your script and upload it to [Pypi](https://pypi.python.org) . This would enable users to quickly install and use your script.
 Also :
